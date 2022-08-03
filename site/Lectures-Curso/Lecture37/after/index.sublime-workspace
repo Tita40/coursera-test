@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: GIT",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: iN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture37/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture36/before/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture36/before/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture36/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture36/after/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture35/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture35/after/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture34/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture34/after/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture34/before/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture34/before/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture34/before/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture33/after/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture33/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture32/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture32/after/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture31/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture31/after/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture31/after/js/bootstrap.js",
+		"/C/Users/i_murillo/test_site/coursera-test/Module3-China-Bistro/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/Module3-China-Bistro/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/Module3-China-Bistro/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/Module3-China-Bistro/after/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture30/after/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture29/before/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture29/before/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/ejemp2/css/style.css",
+		"/C/Users/i_murillo/test_site/coursera-test/ejemp2/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/module2-solution/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/module2-solution/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/ejemplo3/css/style.css",
+		"/C/Users/i_murillo/test_site/coursera-test/ejemplo3/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/ejem1/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/ejem1/css/style.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/links-same-page.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/two-column-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/media-queries-after.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/styling-text-after.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/two-column-after.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/external.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/inheritance.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/links-internal.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/links-external.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/font-size-after.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/css-syntax.html",
+		"/C/Users/i_murillo/test_site/coursera-test/module2-solution/responsive-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/module2-solution/grid-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/specificity.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/floating-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture26/grid-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/responsive-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture25/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/background-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/style.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/media-queries-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/module3-solution/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/Lecture25/css/styles.css",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/positioning-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/origin.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/styling-text-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/pseudo-selectors-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/style-placement.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/box-model-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/font-size-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/images.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/descendant-selector-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/element-with-class-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/child-selector-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/simple-selectors-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/html-entities-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/Lectures-Curso/html-entities-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/ordered-lists-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/div-and-span.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/headings.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/semantic-elements.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/structure-only-before.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/prueba1.html",
+		"/C/Users/i_murillo/test_site/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/site/index.html",
+		"/C/Users/i_murillo/test_site/coursera-test/test/index.html",
+		"/C/Users/i_murillo/test_site/Coursera-test/site/index.html",
+		"/C/Users/i_murillo/AppData/Roaming/Sublime Text/Packages/Git/Git.sublime-settings",
+		"/C/Users/i_murillo/AppData/Roaming/Sublime Text/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/E/COURSERA-Html-css-java/fullstack-course4-master/examples/Lecture01/structure-only-after.html",
+		"/E/COURSERA-Html-css-java/fullstack-course4-master/examples/Lecture01/structure-only-before.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
